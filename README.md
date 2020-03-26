@@ -9,20 +9,23 @@
 
 <br>
 
-### Tecnologies
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [React](https://pt-br.reactjs.org/)
-
 
 ### Project
 
 **Be The Hero** is a project focused on help charities receive cash donations to solve their problems.
 
+
+### Tecnologies
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+
+
 ### Development help
 
 Entire development (back-end, front-end and mobile) was ministred by [Diego Fernandes](https://github.com/diego3g)
+
 
 ### License
 

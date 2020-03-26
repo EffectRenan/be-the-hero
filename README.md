@@ -4,9 +4,6 @@
 <img src="./frontend/src/assets/logo.svg" width="250px" /><br>
 </h4>
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Effectt Renan" src="https://github.com/EffectRenan">
-  </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 

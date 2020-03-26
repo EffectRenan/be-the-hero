@@ -27,5 +27,3 @@ Entire development (back-end, front-end and mobile) was ministred by [Diego Fern
 ### License
 
 MIT license. Look at [LICENSE](LICENSE.md) for more details.
-
-### :muscle: Quem deu aquela força para não desistir?

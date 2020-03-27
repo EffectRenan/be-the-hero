@@ -1,7 +1,7 @@
 import React from 'react'
 import { Feather } from '@expo/vector-icons'
 import { useNavigation, useRoute } from '@react-navigation/native'
-import { View, TouchableOpacity, Linking } from 'react-native'
+import { View, Text, Image, TouchableOpacity, Linking } from 'react-native'
 import * as MailComposer from 'expo-mail-composer'
 
 import logoImg from '../../assets/logo.png'
@@ -42,7 +42,7 @@ export default function Detail() {
                 </TouchableOpacity>
             </View>
 
-            <View styles={styles.incident}>
+            <View style={styles.incident}>
                 <Text style={[styles.incidentProperty, {marginTop: 0}]}>ONG:</Text>
                 <Text style={styles.incidentValue}>{incident.name} from {incident.city}/{incident.UF}</Text>
 

@@ -55,8 +55,8 @@ export default function Incidents() {
                 </Text>
             </View>
 
-            <Text style={styles.title}>Welcome!</Text>
-            <Text style={styles.description}>Choose a incident bellow and save the day!</Text>
+            <Text style={styles.title}>Welcome</Text>
+            <Text style={styles.description}>Choose an incident bellow and save the day!</Text>
 
             <FlatList
                 data={incidents}
@@ -67,7 +67,7 @@ export default function Incidents() {
                 onEndReachedThreshold={0.2}
                 renderItem={({ item:incident }) => (
                     <View style={styles.incident}>
-                        <Text style={styles.incidentProperty}>ONG:</Text>
+                        <Text style={styles.incidentProperty}>CHARITY:</Text>
                         <Text style={styles.incidentValue}>{incident.name}</Text>
 
                         <Text style={styles.incidentProperty}>INCIDENT:</Text>

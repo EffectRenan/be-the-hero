@@ -30,6 +30,8 @@
 ### Network ports configurations
 - Back-end port: 3333
 - Front-end port: 3000
+- Mobile: 19002
+- ### Ps: Config the back-end address in */services/api.js
 
 
 ### Development helps

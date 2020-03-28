@@ -43,17 +43,17 @@ export default function Register() {
                 <section>
                     <img src={logoImg} alt="Be The Hero" />
                     <h1>Registration</h1>
-                    <p>Make your registration, Enter in the platform and help peaple to find out the cases in your ONG.</p>
+                        <p>Create your account. Make a part of this platform and help peaple to find out the incidents in your charity.</p>
                     <Link className='back-link' to='/' >
                         <FiArrowLeft size={16} color='#E02041' />
-                        I have no account
+                        Back to home
                     </Link>
 
                 </section>
 
                 <form onSubmit={handleRegister}>
                     <input
-                        placeholder="ONG's name"
+                        placeholder="Charity's name"
                         value={name}
                         onChange={e => setName(e.target.value)}
                     />

@@ -5,7 +5,7 @@
 </h4>
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
-  img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EffectRenan/be-the-hero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EffectRenan/be-the-hero">
 </p>
 
 <br>

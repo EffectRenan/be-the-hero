@@ -1,4 +1,4 @@
-import React, { useState, useEffect }from 'react'
+import React, { useState, useEffect } from 'react'
 import { Feather } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native'
@@ -32,7 +32,7 @@ export default function Incidents() {
 
         setLoading(true)
 
-        const response = api.get('incidents', {
+        const response = await api.get('incidents', {
             params: { page }
         })
 

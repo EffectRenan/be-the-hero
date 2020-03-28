@@ -29,9 +29,10 @@
 - [Express](https://expressjs.com/pt-br/)
 - [Expo](https://expo.io/)
 
+
 ### Network Configs
-Back-end port: 3333
-Front-end port: 3000
+- Back-end port: 3333
+- Front-end port: 3000
 
 
 ### Development help

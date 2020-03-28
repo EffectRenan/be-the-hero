@@ -1,11 +1,11 @@
 # Be The Hero
 
 <h4 align="center">
-<img src="./frontend/src/assets/logo.svg" width="250px" /><br>
+    <img src="./frontend/src/assets/logo.svg" width="250px" /><br>
 </h4>
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EffectRenan/be-the-hero">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EffectRenan/be-the-hero">
 </p>
 
 <br>

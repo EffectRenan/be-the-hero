@@ -1,5 +1,6 @@
-# Be The Hero
-
+<h4 align="center">
+    Be The Hero
+</h4>
 <h4 align="center">
     <img src="./frontend/src/assets/logo.svg" width="250px" /><br>
 </h4>
@@ -26,18 +27,17 @@
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev)
-- [Express](https://expressjs.com/pt-br/)
 - [Expo](https://expo.io/)
 
 
-### Network Configs
+### Network ports configurations
 - Back-end port: 3333
 - Front-end port: 3000
 
 
-### Development help
+### Development helps
 
-Entire development (back-end, front-end and mobile) was managered by [Rocketseat](https://rocketseat.com.br/) in [OmnisTack Week 11.0](https://rocketseat.com.br/week/inscricao/11.0).
+Entire development (back-end, front-end and mobile) was managered by [Rocketseat](https://rocketseat.com.br/) in [OmniStack Week 11.0](https://rocketseat.com.br/week/inscricao/11.0).
 
 
 ### License

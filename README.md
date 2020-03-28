@@ -41,4 +41,4 @@ Entire development (back-end, front-end and mobile) was managered by [Rocketseat
 
 ### License
 
-MIT license. Look at [LICENSE](LICENSE.md) for more details.
+MIT license. Look at [LICENSE](LICENSE) for more details.

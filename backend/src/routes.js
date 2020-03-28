@@ -40,6 +40,4 @@ routes.get('/profile', celebrate({
     }).unknown(),
 }), ProfileController.index)
 
-
-
 module.exports = routes

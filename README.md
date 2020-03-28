@@ -6,6 +6,12 @@
 <p align="center">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EffectRenan/be-the-hero">
+     <a href="https://github.com/EffectRenan/be-the-hero/commits/master">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EffectRenan/be-the-hero">
+    </a>
+    <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+        <img alt="Repository issues" src="https://img.shields.io/github/issues/EffectRenan/be-the-hero">
+    </a>
 </p>
 
 <br>

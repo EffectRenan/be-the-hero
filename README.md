@@ -1,7 +1,4 @@
 <h4 align="center">
-    Be The Hero
-</h4>
-<h4 align="center">
     <img src="./frontend/src/assets/logo.svg" width="250px" /><br>
 </h4>
 <p align="center">

@@ -20,6 +20,11 @@
 **Be The Hero** is a project focused on help charities to receive cash donations to solve their incidents.
 
 
+### Demo
+[Front-end](https://github.com/EffectRenan/be-the-hero)
+[Back-end](https://effectrenan-be-the-hero.herokuapp.com/)
+
+
 ### Tecnologies
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)

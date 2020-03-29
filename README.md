@@ -1,3 +1,1 @@
-## This is a back-end
-
-[Access here][https://effectrenan-be-the-hero.herokuapp.com/]
+## This is a back-end branch for Heroku

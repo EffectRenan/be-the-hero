@@ -21,7 +21,7 @@
 
 
 ### Demo
-[Front-end](https://effectrenan-be-the-hero.netlify.com/)
+[Front-end](https://effectrenan-be-the-hero.netlify.com/) | 
 [Back-end](https://effectrenan-be-the-hero.herokuapp.com/)
 
 

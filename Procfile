@@ -1,1 +1,1 @@
-web: npm start --prefix backend
+worker: npm start --prefix backend

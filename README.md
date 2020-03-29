@@ -32,7 +32,7 @@
 - [Expo](https://expo.io/)
 
 
-### Default network ports configurations
+### Default network ports configuration
 - Back-end port: 3333
 - Front-end port: 3000
 - Mobile: 19002

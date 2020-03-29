@@ -1,3 +1,3 @@
-## This is the back-end
+## This is the front-end
 
 [Access here][https://effectrenan-be-the-hero.herokuapp.com/]

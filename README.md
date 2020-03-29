@@ -41,7 +41,7 @@
 
 ### Development helps
 
-Entire development (back-end, front-end and mobile) was managered by [Rocketseat](https://rocketseat.com.br/) in *["Semana OmniStack 11.0"](https://rocketseat.com.br/week/inscricao/11.0)*.
+Entire development (back-end, front-end and mobile) was managered by [Rocketseat](https://rocketseat.com.br/) in *[Semana OmniStack 11.0](https://rocketseat.com.br/week/inscricao/11.0)*.
 
 
 ### License

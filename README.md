@@ -30,6 +30,7 @@
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io/)
+- [SQLite](https://www.sqlite.org/)
 
 
 ### Default network ports configuration
